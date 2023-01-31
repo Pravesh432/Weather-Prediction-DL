@@ -29,5 +29,5 @@ Using ANN(Artificial Neural Network) created model for Weather prediction
 ## After Applying Regualizer got the score:
 ![score](https://user-images.githubusercontent.com/105968767/215764784-640b5a84-4d83-4815-9575-76e5403c53e4.png)
 
-#Conclusion:
-- 
+# Conclusion:
+- In this article I have described the process of collecting, cleaning, and processing a reasonably good-sized data set to be used for upcoming articles on a machine learning project in which we predict future weather RainTomorrow or not.
